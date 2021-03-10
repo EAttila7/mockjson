@@ -62,252 +62,252 @@
         }
     ],
     "Products": {
-        "Chairs": [
+      "Chairs": [
             {
                 "id": 1,
-                "model": "LILLASEN",
+                "model": "Lillasen",
                 "materials": "Bamboo",
-                "price": 50000
+                "price": 100
             },
             {
                 "id": 2,
-                "model": "BRIMNES",
+                "model": "Adils",
                 "materials": "Chipboard",
-                "price": 25000
+                "price": 200
             },
             {
                 "id": 3,
-                "model": "ADILS",
-                "materials": "Fiberboard",
-                "price": 15000
+                "model": "Bekand",
+                "materials": "Fireboard",
+                "price": 70
             },
             {
                 "id": 4,
-                "model": "BEKANT",
+                "model": "Linnmon alex",
                 "materials": "Chipboard",
-                "price": 50000
+                "price": 50
             },
             {
                 "id": 5,
-                "model": "LINNMON ALEX",
-                "materials": "Chipboard",
-                "price": 35000
+                "model": "Olov",
+                "materials": "Fiberboard",
+                "price": 120
             },
             {
                 "id": 6,
-                "model": "LINNMON LERBERG",
+                "model": "Micke",
                 "materials": "Fiberboard",
-                "price": 10000
+                "price": 75
             },
             {
                 "id": 7,
-                "model": "LINNMON OLOV",
-                "materials": "Fiberboard",
-                "price": 20000
+                "model": "Pahl",
+                "materials": "Wood",
+                "price": 60
             },
             {
                 "id": 8,
-                "model": "LINNMON ADILS,
-                "materials": "Wood",
-                "price": 21000
+                "model": "Alex",
+                "materials": "Fiberboard",
+                "price": 230
             },
             {
                 "id": 9,
-                "model": "MICKE",
-                "materials": "Fiberboard2",
-                "price": 25000
+                "model": "Ladles",
+                "materials": "wood",
+                "price": 110
             },
             {
                 "id": 10,
-                "model": "PAHL",
-                "materials": "Chipboardd",
-                "price": 23000
+                "model": "Pihan",
+                "materials": "Chipbord",
+                "price": 80
             }
         ],
         "Sofas": [
-             {
+            {
                 "id": 1,
-                "model": "SVENSTA",
-                "materials": "Solid wood, Fibreboard, Birch plywood, Polyurethane foam",
-                "price": 30000
+                "model": "Sventa",
+                "materials": "Solid wood",
+                "price": 120
             },
             {
                 "id": 2,
-                "model": "FRIHETEN",
-                "materials": "Solid wood, chipboard, Plywood, fiberboard, Polyurethane foam, Polyester wadding, Solid birch",
-                "price": 142000
+                "model": "Frihenten",
+                "materials": "Solid wood",
+                "price": 70
             },
             {
                 "id": 3,
-                "model": "GIMMARP",
-                "materials": "Plywood, chipboard, fiberboard, polyurethane foam",
-                "price": 90000
+                "model": "Gimmarp",
+                "materials": "Solid wood",
+                "price": 75
             },
             {
                 "id": 4,
-                "model": "KLIPPAN",
-                "materials": "Particleboard, Fibreboard, Birch plywood, Solid wood, Paper foil, Acrylic paint, Paper foil",
-                "price": 60000
+                "model": "Minlan",
+                "materials": "Solid wood",
+                "price": 50
             },
             {
                 "id": 5,
-                "model": "GRALLSTA",
-                "materials": "Plywood, Particleboard, Fibreboard, Laminated veneer",
-                "price": 70000
+                "model": "Klippan",
+                "materials": "Solid wood",
+                "price": 100
             },
             {
                 "id": 6,
-                "model": "BRISSUND",
-                "materials": "Solid wood, Fibreboard, Birch plywood, Polyurethane foam",
-                "price": 95000
+                "model": "Grallsta",
+                "materials": "Solid wood",
+                "price": 150
             },
             {
                 "id": 7,
-                "model": "GIMMARP2",
-                "materials": "Solid wood, Fibreboard, Birch plywood, Polyurethane foam",
-                "price": 100000
+                "model": "Brissund",
+                "materials": "Solid wood",
+                "price": 130
             },
             {
                 "id": 8,
-                "model": "BRISSUND2",
-                "materials": "Plywood, chipboard, fiberboard, polyurethane foam",
-                "price": 99000
+                "model": "Farthen",
+                "materials": "Solid wood",
+                "price": 110
             },
             {
                 "id": 9,
-                "model": "LANDSKRONA",
-                "materials": "Particleboard, Birch plywood, Solid wood, Fibreboard, Polyurethane foam, Polyester wadding",
-                "price": 250000
+                "model": "Pormah",
+                "materials": "Solid wood",
+                "price": 300
             },
             {
                 "id": 10,
-                "model": "ASKESTA",
-                "materials": "Plywood, chipboard, fiberboard, polyurethane foam",
-                "price": 170000
+                "model": "Ulater",
+                "materials": "Solid wood",
+                "price": 1000
             }
         ],
         "Cabinets": [
-             {
+            {
                 "id": 1,
-                "model": "BRIMNES",
+                "model": "Brimnes",
                 "materials": "Particleboard, Paper foil",
-                "price": 15000
+                "price": 120
             },
             {
                 "id": 2,
-                "model": "KLEPPSTAD",
+                "model": "Kleppstad",
                 "materials": "Particleboard, Paper foil",
-                "price": 20000
+                "price": 350
             },
             {
                 "id": 3,
-                "model": "KLEPPSTAD2",
+                "model": "Sdoias",
                 "materials": "Particleboard, Paper foil",
-                "price": 70000
+                "price": 200
             },
             {
                 "id": 4,
-                "model": "HAUGA",
-                "materials": "Particleboard, Paper foil, Plastic edging",
-                "price": 50000
+                "model": "Brans",
+                "materials": "Particleboard, Paper foil",
+                "price": 500
             },
             {
                 "id": 5,
-                "model": "PAX",
-                "materials": "Particleboard, Melamine foil",
-                "price": 120000
+                "model": "Qsadfvv",
+                "materials": "Particleboard, Paper foil",
+                "price": 100
             },
             {
                 "id": 6,
-                "model": "PAX2",
+                "model": "Hauga",
                 "materials": "Particleboard, Paper foil",
-                "price": 120000
+                "price": 150
             },
             {
                 "id": 7,
-                "model": "KLEPPSTAD3",
-                "materials": "Particleboard, Melamine foil",
-                "price": 15000
+                "model": "Hensal",
+                "materials": "Particleboard, Paper foil",
+                "price": 130
             },
             {
                 "id": 8,
-                "model": "BRIMNES2",
-                "materials": "Plywood, chipboard, fiberboard, polyurethane foam",
-                "price": 50000
+                "model": "Ertan",
+                "materials": "Particleboard, Paper foil",
+                "price": 110
             },
             {
                 "id": 9,
-                "model": "SONGESAND",
-                "materials": "Particleboard, Paper foil, Plastic edging",
-                "price": 80000
+                "model": "Provald",
+                "materials": "Particleboard, Paper foil",
+                "price": 100
             },
             {
                 "id": 10,
-                "model": "PAX3",
-                "materials": "Particleboard, Paper foil, Plastic",
-                "price": 150000
+                "model": "Ulhad",
+                "materials": "Particleboard, Paper foil",
+                "price": 150
             }
         ],
         "Chairs": [
-             {
+            {
                 "id": 1,
-                "model": "EGGELSTAD",
-                "materials": "Solid birch, Acrylic paintl",
-                "price": 15000
+                "model": "Eggelstad",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 120
             },
             {
                 "id": 2,
-                "model": "INGOLF",
+                "model": "Dargen",
                 "materials": "Solid birch, Acrylic paint",
-                "price": 20000
+                "price": 250
             },
             {
                 "id": 3,
-                "model": "TOSSBERG",
+                "model": "Loklan",
                 "materials": "Solid birch, Acrylic paint",
-                "price": 70000
+                "price": 160
             },
             {
                 "id": 4,
-                "model": "BÖRJE",
+                "model": "Serted",
                 "materials": "Solid birch, Acrylic paint",
-                "price": 50000
+                "price": 320
             },
             {
                 "id": 5,
-                "model": "VEDBO",
+                "model": "Sermond",
                 "materials": "Solid birch, Acrylic paint",
-                "price": 120000
+                "price": 130
             },
             {
                 "id": 6,
-                "model": "NOLMYRA ",
-                "materials": "Steel, Polyester wadding, Highly resilient polyurethane foam",
-                "price": 120000
+                "model": "Ulnedg",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 150
             },
             {
                 "id": 7,
-                "model": "VEDBO",
-                "materials": "Steel, Polyester wadding, Highly resilient polyurethane foam",
-                "price": 15000
+                "model": "Mardor",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 130
             },
             {
                 "id": 8,
-                "model": "TOSSBERG",
-                "materials": "Steel, Polyester wadding, Highly resilient polyurethane foam",
-                "price": 50000
+                "model": "Nolger",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 115
             },
             {
                 "id": 9,
-                "model": "VEDBO",
-                "materials": "Steel, Polyester wadding, Highly resilient polyurethane foam",
-                "price": 80000
+                "model": "Hermes",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 200
             },
             {
                 "id": 10,
-                "model": "INGOLF",
-                "materials": "Particleboard, Paper foil, Plastic",
-                "price": 150000
+                "model": "Nylden",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 65
             }
         ]
     }
